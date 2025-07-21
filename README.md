@@ -74,7 +74,8 @@ This analysis compares the estimated number of potential coffee consumers (calcu
 Metro cities such as **Delhi** and **Jaipur** show strong customer bases, yet still fall short of their full market potential—indicating room for deeper penetration. On the other hand, **Ahmedabad**, **Indore**, and **Kanpur** are highly underpenetrated, representing strong opportunities for market entry or expansion strategies.
 
 **Visual:**  
-![Insight 6](https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight6.png)(https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight7.png)
+(https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight6.png)
+(https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight7.png)
 
 
 ---
