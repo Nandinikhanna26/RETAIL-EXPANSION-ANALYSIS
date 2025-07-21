@@ -61,7 +61,7 @@ Analyzed total revenue, unique customer count, and average revenue per customer 
 Pune, Chennai, and Bangalore lead in both total revenue and customer base. Jaipur stands out for its high average spend per customer — indicating potential for premium product positioning in smaller cities.
 
 ** Visual:**  
-![Insight 3](https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight5.png)
+(https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight5.png)
 
 
 ---
@@ -101,7 +101,7 @@ This query identifies the top 3 best-selling products in each city using a DENSE
 This insight uncovers city-specific favorites. For example, cities like Bangalore, Chennai, and Delhi show a common preference for Cold Brew Packs and Instant Coffee Powder, suggesting a strong demand for convenient and ready-to-drink formats. Use this to drive localized merchandising and tailored promotions.
 
 ** Visual:**  
-![Insight 3](https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight9.png)
+(https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight9.png)
 
 
 ---
