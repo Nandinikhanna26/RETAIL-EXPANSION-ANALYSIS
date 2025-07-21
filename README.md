@@ -12,7 +12,7 @@ Estimated the coffee-drinking population in major cities (assuming 30% of total 
 Delhi, Mumbai, and Kolkata show the highest consumer base — ideal markets for expansion or targeted promotions.
 
 ** Visual:**  
-![Insight 1](IMAGE_LINK_HERE)
+![Insight 1]([IMAGE_LINK_HERE](https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight1.png))
 
 ---
 
