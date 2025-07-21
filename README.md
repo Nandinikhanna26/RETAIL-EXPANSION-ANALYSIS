@@ -24,7 +24,7 @@ Measured revenue during Oct–Dec 2023 to understand seasonal impact.
 Q4 generated ₹1.96M in revenue — highlighting a strong year-end boost worth aligning future campaigns with.
 
 ** Visual:**  
-![Insight 2]([IMAGE_LINK_HERE](https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight2.png))
+![Insight 2](https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight2.png)
 
 ---
 
@@ -36,7 +36,7 @@ Ranked cities by total Q4 revenue contribution using customer and sales data.
 Pune, Chennai, and Bangalore led revenue figures — prime candidates for deeper market investment.
 
 ** Visual:**  
-![Insight 3](IMAGE_LINK_HERE)
+![Insight 3](https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight3.png)
 
 ---
 
@@ -48,7 +48,7 @@ Identified top-performing products across all sales.
 Cold Brew 6-Pack is the top seller, followed by Ground Espresso. High performers can lead bundling or ad campaigns.
 
 ** Visual:**  
-![Insight 4](IMAGE_LINK_HERE)
+![Insight 4](https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight4.png)
 
 ---
 
