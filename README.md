@@ -4,7 +4,7 @@ This project delivers 12 data-backed insights for scaling a coffee retail busine
 
 ---
 
-## 1 Market Sizing by City – Estimating Demand Potential
+## 1: Market Sizing by City – Estimating Demand Potential
 
 Estimated the coffee-drinking population in major cities (assuming 30% of total population).
 
@@ -16,7 +16,7 @@ Delhi, Mumbai, and Kolkata show the highest consumer base — ideal markets for 
 
 ---
 
-## 2 Seasonal Revenue Spike – Q4 2023 Performance
+## 2: Seasonal Revenue Spike – Q4 2023 Performance
 
 Measured revenue during Oct–Dec 2023 to understand seasonal impact.
 
@@ -28,7 +28,7 @@ Q4 generated ₹1.96M in revenue — highlighting a strong year-end boost worth 
 
 ---
 
-## 3 Regional Performance – Top Revenue Cities (Q4)
+## 3: Regional Performance – Top Revenue Cities (Q4)
 
 Ranked cities by total Q4 revenue contribution using customer and sales data.
 
@@ -40,7 +40,7 @@ Pune, Chennai, and Bangalore led revenue figures — prime candidates for deeper
 
 ---
 
-## 4 Product Demand – Best Sellers by Order Volume
+## 4: Product Demand – Best Sellers by Order Volume
 
 Identified top-performing products across all sales.
 
@@ -52,7 +52,7 @@ Cold Brew 6-Pack is the top seller, followed by Ground Espresso. High performers
 
 ---
 
-## 5 Revenue & Customer Distribution by City
+## 5: Revenue & Customer Distribution by City
 
 Analyzed total revenue, unique customer count, and average revenue per customer across cities.
 
@@ -66,7 +66,7 @@ Pune, Chennai, and Bangalore lead in both total revenue and customer base. Jaipu
 
 ---
 
-## 6 City-Wise Market Potential vs. Actual Reach
+## 6: City-Wise Market Potential vs. Actual Reach
 
 This analysis compares the estimated number of potential coffee consumers (calculated as 30% of the city population) with the actual number of unique customers from each city. The goal is to identify underserved markets and assess current market penetration city-wise.
 
@@ -80,7 +80,7 @@ Metro cities such as **Delhi** and **Jaipur** show strong customer bases, yet st
 
 ---
 
-## 7 City-Wise Top-Selling Products
+## 7: City-Wise Top-Selling Products
 
 This analysis identifies the top-selling products in each city using the DENSE_RANK() window function. Products are ranked based on the number of total orders in their respective cities. This helps us understand regional preferences and consumer behavior more clearly.
 
@@ -93,7 +93,7 @@ This ranking reveals product demand by location. For instance, in Ahmedabad, top
 
 ---
 
-## 8 Top 3 Products by City
+## 8: Top 3 Products by City
 
 This query identifies the top 3 best-selling products in each city using a DENSE_RANK() window function, helping pinpoint product-level preferences across regions.
 
@@ -106,7 +106,7 @@ This insight uncovers city-specific favorites. For example, cities like Bangalor
 
 ---
 
-## 9 Unique Customers by City (Selected Products)
+## 9: Unique Customers by City (Selected Products)
 
 This insight counts the number of unique customers from each city who purchased any of the 14 key products, helping identify geographic demand concentration for strategic targeting.
 
@@ -120,7 +120,7 @@ Jaipur, Delhi, and Pune show high engagement among customers for the selected pr
 
 ---
 
-## 10 Average Rent per Customer vs. Revenue per Customer
+## 10: Average Rent per Customer vs. Revenue per Customer
 
 This insight combines estimated city rent costs with average revenue per customer to assess the cost-efficiency of operations in each city.
 
