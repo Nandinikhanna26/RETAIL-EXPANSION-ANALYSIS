@@ -11,7 +11,7 @@ Estimated the coffee-drinking population in major cities (assuming 30% of total 
 **Takeaway:**  
 Delhi, Mumbai, and Kolkata show the highest consumer base — ideal markets for expansion or targeted promotions.
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight1.png)
 
 ---
@@ -23,7 +23,7 @@ Measured revenue during Oct–Dec 2023 to understand seasonal impact.
 **Takeaway:**  
 Q4 generated ₹1.96M in revenue — highlighting a strong year-end boost worth aligning future campaigns with.
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight2.png)
 
 ---
@@ -35,7 +35,7 @@ Ranked cities by total Q4 revenue contribution using customer and sales data.
 **Takeaway:**  
 Pune, Chennai, and Bangalore led revenue figures — prime candidates for deeper market investment.
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight3.png)
 
 ---
@@ -47,7 +47,7 @@ Identified top-performing products across all sales.
 **Takeaway:**  
 Cold Brew 6-Pack is the top seller, followed by Ground Espresso. High performers can lead bundling or ad campaigns.
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight4.png)
 
 ---
@@ -60,7 +60,7 @@ Analyzed total revenue, unique customer count, and average revenue per customer 
 **Takeaway:**  
 Pune, Chennai, and Bangalore lead in both total revenue and customer base. Jaipur stands out for its high average spend per customer — indicating potential for premium product positioning in smaller cities.
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight5.png)
 
 
@@ -87,7 +87,7 @@ This analysis identifies the top-selling products in each city using the DENSE_R
 **Takeaway:**  
 This ranking reveals product demand by location. For instance, in Ahmedabad, top choices include Cold Brew Coffee Pack, Coffee Beans (500g), and Instant Coffee Powder. These insights can guide regional inventory planning, targeted product campaigns, and localized bundling strategies.
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight8.png)
 
 
@@ -100,7 +100,7 @@ This query identifies the top 3 best-selling products in each city using a DENSE
 **Takeaway:**  
 This insight uncovers city-specific favorites. For example, cities like Bangalore, Chennai, and Delhi show a common preference for Cold Brew Packs and Instant Coffee Powder, suggesting a strong demand for convenient and ready-to-drink formats. Use this to drive localized merchandising and tailored promotions.
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight9.png)
 
 
@@ -114,7 +114,7 @@ This insight counts the number of unique customers from each city who purchased 
 **Takeaway:**  
 Jaipur, Delhi, and Pune show high engagement among customers for the selected product portfolio, making them ideal cities for product bundling strategies or early access campaigns. Meanwhile, cities like Indore, Hyderabad, and Ahmedabad offer room for customer acquisition efforts.
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight10.png)
 
 
@@ -129,7 +129,7 @@ This insight combines estimated city rent costs with average revenue per custome
 Cities like Mumbai, Hyderabad, and Bangalore show a high average rent per customer, posing operational cost challenges despite decent revenues. In contrast, Jaipur and Pune demonstrate favorable rent-to-revenue ratios, making them more viable for physical expansion or flagship stores.
 
 
-** Visual:**  
+**Visual:**  
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight11.png)
 (https://github.com/Nandinikhanna26/RETAIL-EXPANSION-ANALYSIS/blob/main/Insight12.png)
 
